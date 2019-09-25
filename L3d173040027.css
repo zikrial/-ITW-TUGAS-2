@@ -1,0 +1,46 @@
+body {
+	background-image: url(background.png);
+	background-repeat: repeat-x;
+}
+h1 {
+	text-align: center; font-family: "comic sans ms"; color: darkblue; font-size: 70px
+}
+h4 {
+	text-align: center; font-family: arial; font-style: italic;
+}
+h3 {
+	text-align: center; font-variant: small-caps;
+}
+p { 
+	text-indent: 50px; font-family: verdana;
+}
+.p1 {
+	text-align: justify;
+}
+#p2 {
+	Line-height: 30px; text-align: justify;
+}
+.sandhika:link {
+		color: blue; text-decoration: none; font-weight:bold;
+}
+.sandhika:hover {
+		color: red; text-decoration: underline;
+	}
+.facebook:link {
+		color: blue; text-decoration: none;
+}
+.facebook:hover {
+		color: red; text-decoration: underline;
+	}
+.kembalindex:link, .kembalindex:visited {
+    background-color: blue;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.kembalindex:hover, .kembalindex:active {
+    background-color: darkblue;
+}

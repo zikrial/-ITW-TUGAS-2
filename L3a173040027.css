@@ -1,0 +1,23 @@
+body {
+	background-color: aqua; font-family: century gothic;
+}
+h1 {
+	font-family: comic sans ms; font-size: 60px; color: darkblue;
+}
+h4 {
+	text-align: right; font-style: italic;
+}
+p { text-align: justify;
+}
+.kembalindex:link, .kembalindex:visited {
+    background-color: blue;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.kembalindex:hover, .kembalindex:active {
+    background-color: darkblue;
+}

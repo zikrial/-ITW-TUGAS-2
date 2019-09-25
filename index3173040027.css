@@ -1,0 +1,23 @@
+body{
+	background-image: url(babah123.jpg);
+}
+h1 {
+	text-align: center; font-family: jokerman; color: darkblue;
+}
+h2 {
+	text-align: center; font-family: jokerman; color: darkblue;
+}
+td {
+	text-align: center; font-family: showcard gothic; color: darkblue;
+}
+a:link {
+    color: red;text-decoration: none;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: blue;text-decoration: none;
